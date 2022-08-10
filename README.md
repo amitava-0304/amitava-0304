@@ -11,6 +11,7 @@ Python,Mysql,Sqlserver,BI(SSIS,SSRS),Java
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amitava-0304)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amitava-0304&show_icons=true) 
+
 ![Profile views](https://gpvc.arturio.dev/amitava-0304)  
 <!---
 amitava-0304/amitava-0304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

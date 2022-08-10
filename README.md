@@ -14,7 +14,8 @@ Python,Mysql,Sqlserver,BI(SSIS,SSRS),Java
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitava-0304)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/amitava-0304)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amitava-0304) 
+![Profile views](https://gpvc.arturio.dev/amitava-0304)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amitava-0304)
 <!---
 amitava-0304/amitava-0304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

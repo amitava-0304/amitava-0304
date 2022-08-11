@@ -6,7 +6,7 @@
 - 🌱 I worked as a Senior Software Engineer/Trainer
 - 👀 **I’m interested in Machine Learning, Deep Learning,Computer vision, Natural Language Processing**
 - 🧠 I’m currently learning about DataScience
-- 💞 **I have 12+ years of experience in the areas of Database Applications using MSSQL server,SSIS,SSRS, Oracle in IT/Retail/Pharmacy sector**
+- 💞 **I have 12+ years of experience in the areas of Database Applications using MSSQL server,SSIS,SSRS, Oracle in IT,Retail and Pharmacy sector**
 - 📫 I served for the well-known Retail entrepreneurs like Jubilant Retail,Keane India (NTT DATA),TCS,System Solutions
 - 👯‍♀️ I'm looking to collaborate with any Open - Source data science projects
 - 📫 How to reach me amitava.majumder2112@gmail.com

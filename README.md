@@ -1,4 +1,4 @@
-
+<html><head><meta name="google-site-verification" content="xTkSWo1Y8mioqyFQPmareBjQ9bIguZIXft0um-c4Spk" /></head></html>
   <div id="header" align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align=center width="100"/></div>
 
 -  **Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -39,7 +39,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=amitava-0304)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amitava-0304)
-<meta name="google-site-verification" content="xTkSWo1Y8mioqyFQPmareBjQ9bIguZIXft0um-c4Spk" />
+
 <!---
 amitava-0304/amitava-0304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

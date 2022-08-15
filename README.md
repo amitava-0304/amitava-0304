@@ -1,4 +1,4 @@
-<html><head><meta name="google-site-verification" content="xTkSWo1Y8mioqyFQPmareBjQ9bIguZIXft0um-c4Spk" /></head></html>
+
   <div id="header" align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align=center width="100"/></div>
 
 -  **Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>

@@ -8,7 +8,7 @@
 - 🧠 I’m currently learning about DataScience
 - :zap: **I have 12+ years of experience in the areas of Database Applications using MSSQL server,SSIS,SSRS, Oracle in IT,Retail and Pharmacy sector**
 - :telescope: I served for the well-known Retail entrepreneurs like Jubilant Retail,Keane India (NTT DATA),TCS,System Solutions
-- 👯‍♀️ I'm looking to collaborate with any Open - Source data science projects
+- 👯‍♀️ I'm looking to collaborate with any Open - Source data science projects.
 - :mailbox: How to reach me amitava.majumder2112@gmail.com
 <div id="badges">
   <a href="https://www.linkedin.com/in/amitava-majumder-2b206166/">

@@ -31,6 +31,7 @@
 </div>
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>![Profile views](https://gpvc.arturio.dev/amitava-0304) 
+[![Amitava's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitava-0304)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitava-0304)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amitava-0304)](https://github.com/ryo-ma/github-profile-trophy)

@@ -33,7 +33,7 @@
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>![Profile views](https://gpvc.arturio.dev/amitava-0304) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitava-0304)](https://github.com/anuraghazra/github-readme-stats)[![Amitava's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitava-0304)]
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
 [![trophy](https://github-profile-trophy.vercel.app/?username=amitava-0304)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amitava-0304)
